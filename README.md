@@ -1,6 +1,6 @@
 # La Parrilla Uruguaya - Sitio Web del Restaurante
 
-Sitio web moderno para el restaurante "La Parrilla Uruguaya" ubicado en Montevideo, Uruguay. Construido con Next.js, Tailwind CSS y Google Maps API.
+Sitio web moderno para restaurante. Construido con Next.js, Tailwind CSS y Google Maps API.
 
 ## Características
 

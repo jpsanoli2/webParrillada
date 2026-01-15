@@ -20,7 +20,7 @@ Sitio web moderno para el restaurante "La Parrilla Uruguaya" ubicado en Montevid
 - **@react-google-maps/api** - Biblioteca para Google Maps en React
 
 ## Estructura del Proyecto
-
+```
 webrest/
 ├── src/
 │   ├── app/
@@ -38,4 +38,4 @@ webrest/
 │       └── Footer.tsx        # Footer
 ├── public/                   # Archivos estáticos
 └── .env.local                # Variables de entorno (no incluido en git)
-
+```
